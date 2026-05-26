@@ -25,4 +25,5 @@ The model successfully converges within 15 epochs, demonstrating strong generali
 ```text
 ├── notebooks/          # Google Colab development notebooks
 ├── assets/             # Exported performance curves and visualizations
+├── LICENCE             # MIT Licence
 └── README.md           # Comprehensive project documentation
